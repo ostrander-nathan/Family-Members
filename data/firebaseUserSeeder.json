@@ -1,37 +1,24 @@
 {
-  "family": [
-    {
+  "family": {
+    "memebers0":{
       "name": "First Last",
       "age": 4,
       "gender": "male",
-      "skills": [
-        "burping",
-        "farting ",
-        "inappropriate shouting",
-        "tantrums"
-      ]
+      "skills":"burping,farting,inappropriate shouting,tantrums"
+
     },
-    {
-      "name": "First LastA",
-      "age": 5,
+    "memebers1":{
+      "name": "First1 Last1",
+      "age": 8,
       "gender": "male",
-      "skills": [
-        "burping",
-        "farting ",
-        "inappropriate shouting",
-        "tantrums"
-      ]
+      "skills": "burping,farting,inappropriate shouting,tantrums"
+
     },
-      {
-      "name": "First LastB",
+    "memebers2":{
+      "name": "First2 Last2",
       "age": 6,
       "gender": "female",
-      "skills": [
-        "burping",
-        "farting ",
-        "inappropriate shouting",
-        "tantrums"
-      ]
+      "skills": "burping,farting,inappropriate shouting,tantrums"
     }
-  ]
+  }
 }
